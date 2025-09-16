@@ -30,4 +30,5 @@ collections:
           min: 5,
           step: 5,
         }
+      - { label: "Image", name: "image", widget: "image", choose_url: true }
       - { label: "Body", name: "body", widget: "markdown" }
