@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: marchollinger/next-test
-  api_root: https://api.github.com
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
+  # api_root: https://api.github.com
+  # base_url: https://api.netlify.com
+  # auth_endpoint: auth
 media_folder: "public/images/uploads" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/images/uploads"
 collections:
